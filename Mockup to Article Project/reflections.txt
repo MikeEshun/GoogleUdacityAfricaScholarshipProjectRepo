@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+  * What new skills have you learned?
+  I had to carefully assess the mockup to identify the best structure that will produce exactly what is in the image. Structure is quite important - first lesson learned.
+
+  * What has been easy?
+  Using the appropriate elements were easy.
+
+  * What has been difficult?
+  Nothing so far.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  The project did not demand a lot of effort. However, the segmenting and structuring techiques were quite helpful in producing the required output.
